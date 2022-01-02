@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012124658753",
+    "project_id": "easyday-d3b6f",
+    "storage_bucket": "easyday-d3b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012124658753:android:b5347c39f18ed1674beac0",
+        "android_client_info": {
+          "package_name": "com.enough.technology.easyday.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012124658753-f92jatmnigvp3hq23cjgjpju6dtj8e6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enough.technology.easyday.app",
+            "certificate_hash": "f4c22cfc44fcdcf5b1bb14f671f1a0d90169fdd2"
+          }
+        },
+        {
+          "client_id": "1012124658753-hu7i5mn6hhci1v7hu05dvr3n56vrrt0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLEVs4UTlRHGsZkI8vUPfN1y26N48h6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012124658753-hu7i5mn6hhci1v7hu05dvr3n56vrrt0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
